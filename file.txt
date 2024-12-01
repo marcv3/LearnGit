@@ -1,2 +1,2 @@
-first line of text
+first line of text merge conflict
 second line of text
